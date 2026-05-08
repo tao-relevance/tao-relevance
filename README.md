@@ -20,15 +20,13 @@ Our mission? **Empower anyone to build an AI workforce that is reliable, secure,
 [![](https://img.shields.io/badge/Employees-100+-green?style=for-the-badge)](https://relevanceai.com/careers)
 [![](https://img.shields.io/badge/Series-B-success?style=for-the-badge)](https://relevanceai.com)
 
-| 🌍 Metric | 📈 Value |
+| 🌍 Metric | 📈 Story |
 | --- | --- |
-| Customers | `Trusted by teams at Canva, Databricks, Confluent, Autodesk and more` |
+| Customers | `Trusted by over 3000+ customers including teams at Canva, Databricks, Confluent, Autodesk and more` |
 | Valuation | `Raised Series B with Bessemer Venture Partners in 2025 at a 100M USD Valuation` |
 | Growth | `15xed User-Base and 6xed ARR since 2025, 40,000+ agents created on our platform to-date` |
 
 [![](https://img.shields.io/badge/🔗_Learn_More-Relevance_AI_Story-00C4CC?style=for-the-badge)](https://relevanceai.com/about)
-[![](https://img.shields.io/badge/🚀_Careers-Join_Our_Mission-purple?style=for-the-badge)](https://relevanceai.com/careers)
-[![](https://img.shields.io/badge/💞_Culture-Values_First-ff69b4?style=for-the-badge)](https://relevanceai.com/careers)
 
 ---
 
