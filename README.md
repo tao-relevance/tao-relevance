@@ -57,13 +57,13 @@ We love:
 - Builders curious about how AI works beyond the surface layer.
 - Customer-aware system thinkers.
 
-[![](https://img.shields.io/badge/👩‍💻_Open_Roles?style=for-the-badge)](https://relevanceai.com/careers)
+[![](https://img.shields.io/badge/👩‍💻_Open_Roles-blue?style=for-the-badge)](https://relevanceai.com/careers)
 
 ---
 
 ## 📬 Let's Connect
 
-If you're into agent infrastructure, developer tooling, or just want to work on hard problems with great humans...
+If you're into AI infrastructure, frontier engineering work, or just want to work on hard problems with great humans...
 
 Let's chat 🤖
 
