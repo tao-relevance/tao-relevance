@@ -53,12 +53,11 @@ I recruit for engineering teams building:
 We love:
 
 - Engineers who initiate and don't wait.
-- People who like to move fast and ship product quickly.
+- People who thrive in start-up environments where product ships quickly.
 - Builders curious about how AI works beyond the surface layer.
-- Customer-driven system thinkers.
+- Customer-aware system thinkers.
 
-[![](https://img.shields.io/badge/👩‍💻_Open_Roles-Chat_%7C_Builders_%7C_Enterprise-00C4CC?style=for-the-badge)](https://relevanceai.com/careers)
-[![](https://img.shields.io/badge/❤️_Life_at_Relevance-Culture_%7C_Benefits_%7C_Growth-8A2BE2?style=for-the-badge)](https://relevanceai.com/careers)
+[![](https://img.shields.io/badge/👩‍💻_Open_Roles?style=for-the-badge)](https://relevanceai.com/careers)
 
 ---
 
