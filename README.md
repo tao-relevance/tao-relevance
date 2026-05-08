@@ -1,8 +1,10 @@
+<div align="center">
+  
 ## Hi There! 👋 I'm Tao
 
-###     About Me: Member of Recruiting Staff @ Relevance AI
-###     I hire technical talent for one of Australia's top AI companies.
-###     Building engineering teams to push the boundaries of applied AI and agentic workforces.
+### Member of Recruiting Staff @ Relevance AI
+### I hire technical talent for one of Australia's top AI companies.
+### Building engineering teams to push the boundaries of applied AI and agentic workforces.
 
 ![banner](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmc3OXZ0NG54aWQ0NWFzN3UxbzZicWo3eHJqazFncXU4bHRpOTlqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3rXywhIbNMIwC1EnZk/giphy.gif)
 
@@ -67,3 +69,5 @@ If you're into agent infrastructure, developer tooling, or just want to work on 
 Let's chat 🤖
 
 [![](https://img.shields.io/badge/💼_LinkedIn-Tao-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tao-z)
+
+</div>
